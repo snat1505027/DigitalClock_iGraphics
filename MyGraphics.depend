@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1385316878 source:d:\mygraphics\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463154398 source:d:\mygraphics\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462648679 d:\mygraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462159876 source:d:\mygraphics\mousedemo.cpp
+	"iGraphics.h"
+
+1462160912 source:d:\mygraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1462159914 source:d:\mygraphics\textinputdemo.cpp
+	"iGraphics.h"
+
+1462645169 source:d:\mygraphics\balldemo.cpp
+	"iGraphics.h"
+
+1462729594 source:d:\mygraphics\clock.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462722806 source:d:\mygraphics\gettime.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

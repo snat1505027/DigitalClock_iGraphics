@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1463155166 source:c:\users\user\desktop\mygraphics\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462648680 c:\users\user\desktop\mygraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
